@@ -1,16 +1,30 @@
-## Hi there 👋
+Hey there! 👋
 
-<!--
-**Jatzo/Jatzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Joe, and I am the founder of Jatzo, a cybersecurity company based in the United Kingdom.
 
-Here are some ideas to get you started:
+I build tools that catch phishing and invoice fraud, then explain what they found in plain English. No jargon, just what's wrong and what to do about it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main stack is Python, Flask, SQLite, JavaScript and Docker. I like detection work most: SPF, DKIM and DMARC, lookalike domains, QR code phishing and anything else that lands in an inbox and shouldn't.
+
+My favourite project is the Email Threat Analyser. It scores a suspicious email out of 100 using 169 detection rules and shows its working. You can try it free with five checks a month, no account needed.
+
+<br />
+What else is live
+	
+🧾 Invoice Fraud Checker	Flags invoices asking you to pay new bank details
+🔎 Spoof Check	Can anyone send email as your domain?
+🌐 Domain Watch	Daily monitoring for lookalike domains
+🎓 Training	Short lessons on phishing and fraud
+📚 Research	Published studies and threat reports
+<br />
+Need something built?
+
+I also take on white-label development for agencies: integrations, automation, web apps and security work, delivered in your name.
+
+<div align="center">
+
+Get in touch: joe@jatzo.co.uk
+
+<sub>You'll likely find me playing OSRS while developing.</sub>
+
+</div>
