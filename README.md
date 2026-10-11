@@ -14,7 +14,7 @@
 
 ---
 
-## Hey there! 👋
+## Hello! 👋
 
 I'm Joe, and I am the founder of **[Jatzo](https://jatzo.co.uk)**, a cybersecurity company based in the United Kingdom.
 
