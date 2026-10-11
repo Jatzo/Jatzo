@@ -1,3 +1,8 @@
+<div align="center"> <img src="header.svg" alt="Jatzo: cybersecurity for the threats that reach your people. Check. Understand. Act." width="100%" /> <br />
+
+Website Try it free Email
+
+</div>
 Hey there! 👋
 
 I'm Joe, and I am the founder of Jatzo, a cybersecurity company based in the United Kingdom.
