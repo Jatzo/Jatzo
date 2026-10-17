@@ -41,7 +41,6 @@ I publish [research](https://jatzo.co.uk/research) on the threats that reach peo
 - [**ClickFix: getting the victim to run the command**](https://jatzo.co.uk/research/clickfix): the technique that has the reader paste the command themselves
 - [**Device code phishing: the sign-in page is real**](https://jatzo.co.uk/research/device-code-phishing): an account takeover where nothing is spoofed
 - [**Detection rules mapped to MITRE ATT&CK**](https://jatzo.co.uk/research/mitre-attack-mapping): how each Jatzo rule maps to the framework, and why some map to nothing
-- [**Case study: the 2015 Bundestag intrusion**](https://jatzo.co.uk/case-studies/bundestag-2015): how a targeted email became a parliamentary crisis
 
 <br />
 
