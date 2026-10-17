@@ -23,6 +23,26 @@ I build tools that catch phishing and invoice fraud, then explain what they foun
 My main stack is Python, Flask, SQLite, JavaScript, HTML/CSS, Docker, Linux, Git and GitHub Actions, with REST APIs, Stripe and Microsoft 365 / Graph for integrations.
 
 I like detection & automation work but always looking for something new to try!
+
+## Why now?
+
+I've loved computers since I got my first laptop at the age of 9, development and cybersecurity have interested me for well over ten years. For a long time it stayed a hobby while I settled into a comfortable everyday routine.
+
+At the end of 2025 I was offered voluntary redundancy and saw it as the chance for a fresh start. Over the past year I've put my focus into development and security, studying and building towards a career I genuinely care about.
+
+That's why this GitHub account is fairly new. The interest isn't! I have more passion now than for anything I've done before. For a long time I let nerves hold me back from putting myself and my work out there. Getting past that has been as much a part of this journey as the code.
+
+
+## Research
+
+I publish [research](https://jatzo.co.uk/research) on the threats that reach people by email, written in plain English.
+
+- [**Email spoofing protection across North East businesses**](https://jatzo.co.uk/research/north-east-email-spoofing-2026): a check of the public DNS records of 192 businesses on one day
+- [**ClickFix: getting the victim to run the command**](https://jatzo.co.uk/research/clickfix): the technique that has the reader paste the command themselves
+- [**Device code phishing: the sign-in page is real**](https://jatzo.co.uk/research/device-code-phishing): an account takeover where nothing is spoofed
+- [**Detection rules mapped to MITRE ATT&CK**](https://jatzo.co.uk/research/mitre-attack-mapping): how each Jatzo rule maps to the framework, and why some map to nothing
+- [**Case study: the 2015 Bundestag intrusion**](https://jatzo.co.uk/case-studies/bundestag-2015): how a targeted email became a parliamentary crisis
+
 <br />
 
 ## Need something built?
