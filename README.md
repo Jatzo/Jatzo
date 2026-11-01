@@ -8,7 +8,7 @@
 
 <br />
 
-**171** detection rules &nbsp;·&nbsp; **192** businesses in our spoofing study &nbsp;·&nbsp; **5** free checks a month
+**172** detection rules &nbsp;·&nbsp; **192** businesses in our spoofing study &nbsp;·&nbsp; **5** free checks a month
 
 </div>
 
