@@ -30,7 +30,7 @@ I've loved computers since I got my first laptop at the age of 9, development an
 
 At the end of 2025 I was offered voluntary redundancy and saw it as the chance for a fresh start. Over the past year I've put my focus into development and security, studying and building towards a career I genuinely care about.
 
-That's why this GitHub account is fairly new. The interest isn't! I have more passion now than for anything I've done before. For a long time I let nerves hold me back from putting myself and my work out there. Getting past that has been as much a part of this journey as the code.
+That's why this GitHub account is fairly new. The interest isn't! I have more passion now than for anything I've done before. For a long time I let nerves hold me back from putting myself and my work out there. Getting past that has been just as big part of this journey.
 
 
 ## Research
